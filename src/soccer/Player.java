@@ -29,7 +29,7 @@ public class Player implements Serializable {
 	private String goals;
 	
 	@Column(name="COUNTRY")
-	private String country;
+	private String country
 	
 	@Column(name="AGE")
 	private String age;
